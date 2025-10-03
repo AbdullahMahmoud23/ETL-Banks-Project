@@ -33,3 +33,17 @@ Particulars of the code to be made have been shared below.
   c. Extract the information for New Delhi office, that is Name and MC_INR_Billion
 7. Write a function to log the progress of the code.
 8. While executing the data initialization commands and function calls, maintain appropriate log entries.
+
+
+## Conclusion
+You should now be able to:
+
+- Use Webscraping techniques to extract information from any website as per requirement.
+
+- Use Pandas data frames and dictionaries to transform data as per requirement.
+
+- Load the processed information to CSV files and as Database tables
+
+- Query the database tables using SQLite3 and pandas libraries
+
+- Log the progress of the code properly
